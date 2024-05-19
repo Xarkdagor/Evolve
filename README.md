@@ -10,7 +10,8 @@ Evolve is your companion in the journey of self-improvement. This intuitive habi
 
 ## Screenshots
 
-![light_253x500](https://github.com/Xarkdagor/Evolve/assets/110737967/11f5bbf3-9f5e-40b8-b010-d5f1d81c90a7)    ![dark_253x500](https://github.com/Xarkdagor/Evolve/assets/110737967/9f827174-0b88-492f-90d1-a2bf20f9844c)
+![light_253x500](https://github.com/Xarkdagor/Evolve/assets/110737967/11f5bbf3-9f5e-40b8-b010-d5f1d81c90a7)    ![dark_253x500](https://github.com/Xarkdagor/Evolve/assets/110737967/9f827174-0b88-492f-90d1-a2bf20f9844c)  ![sett](https://github.com/Xarkdagor/Evolve/assets/110737967/09b4e5e0-35f8-4b44-a3b0-af36b0f2fe44)
+
 
 
 
