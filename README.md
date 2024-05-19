@@ -1,16 +1,53 @@
-# evolve
+# Evolve - Your Growth Companion
 
-A new Flutter project.
+Evolve is your companion in the journey of self-improvement. This intuitive habit tracker app empowers you to create, monitor, and conquer your goals, whether it's reading daily, exercising regularly, or any other positive routine you want to cultivate.
+## Features
+
+- Seamless Habit Management: Easily add, edit, and delete habits to tailor your tracking experience.
+- Daily Habit Tracking: Stay consistent by effortlessly marking your daily progress.
+- Heatmap Visualization: Gain a clear overview of your consistency with a visually appealing heatmap.
+- Secure Local Storage: Your data remains private and accessible offline thanks to the Isar database.
+
+## Screenshots
+
+![light_253x500](https://github.com/Xarkdagor/Evolve/assets/110737967/11f5bbf3-9f5e-40b8-b010-d5f1d81c90a7)    ![dark_253x500](https://github.com/Xarkdagor/Evolve/assets/110737967/9f827174-0b88-492f-90d1-a2bf20f9844c)
+
+
+
+
+
 
 ## Getting Started
+## Prerequisites
+ - Flutter SDK
 
-This project is a starting point for a Flutter application.
+## Installation
 
-A few resources to get you started if this is your first Flutter project:
+- Clone the repository:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+  https://github.com/Xarkdagor/Evolve.git
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Get dependencies:
+```bash
+  cd Evolve
+```
+```bash
+  flutter pub get
+```
+- Run the app
+```bash
+  flutter run
+```
+
+## Built with
+
+- Flutter: https://flutter.dev/
+- Isar: https://isar.dev/
+- Provider: https://pub.dev/packages/provider
+- Flutter Heatmap Calendar: https://pub.dev/packages/flutter_heatmap_calendar
+
+
+
+
